@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="150" src="https://github.com/anurag17077/anurag17077/blob/main/profile.jpg?raw=true" />
+  <img height="300" src="https://github.com/anurag17077/anurag17077/blob/main/profile.jpg?raw=true" />
 </div>
 
 ###
