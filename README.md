@@ -3,13 +3,10 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <ul>
 <li>🌱 I’m currently Learning Machine Learning</a>.</li>
-    <li>📫 how to reach me <a href="[anurag17077@gmail.com](https://mail.google.com/mail/u/0/?ogbl#inbox)"/a>anurag17077@gmail.com </li>
+    <li>📫 how to reach me <a href="https://mail.google.com/mail/u/0/?ogbl#inbox"/a>anurag17077@gmail.com </li>
 </ul>
-<h2>✒ Recent Posts</h2>
-<details>
-    <summary>Explore</summary>
-    <li><a target="_blank" href="https://blog.stanleylim.me/maximizing-efficiency-and-impact---why-i-choose-mermaid-for-graph-creation">Maximizing Efficiency and Impact - Why I Choose Mermaid for Graph Creation — June 19, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/til-how-casing-can-break-netlify-functions">TIL How Casing Can Break Netlify Functions — February 27, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/godaddy-redirect-hack">GoDaddy Redirect Hack — December 20, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/airpods-not-charging-on-windows">Airpods Not Charging on Windows — August 19, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li>
-</details>
+<h2>Connect With Me:</h2>
+<i class="fa fa-linkedin-square" style="font-size:36px" color="blue"></i>
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
