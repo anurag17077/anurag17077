@@ -3,6 +3,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <ul>
 <li>🌱 I’m currently Learning Machine Learning</a>.</li>
+    <li>how to reach me <a href="anurag17077@gmail.com"/a>anurag17077@gmail.com </li>
 </ul>
 <h2>✒ Recent Posts</h2>
 <details>
