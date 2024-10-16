@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <h2>Hey 👋, I'm Anurag Vishwakarma</h2>
 <p>A passionate Software Engineer from India <strong></p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
@@ -7,7 +7,8 @@
     <li>📫 how to reach me <a href="https://mail.google.com/mail/u/0/?ogbl#inbox"/a>anurag17077@gmail.com </li>
 </ul>
 <h2>Connect With Me:</h2>
-<i class="fa-brands fa-linkedin">Linked in</i>
+<i class="fa-brands fa-linkedin" 
+  color: white ></i>
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
