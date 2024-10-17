@@ -7,7 +7,10 @@
     <li>📫 how to reach me <a href="mailto:anurag17077@gmail.com"/a>anurag17077@gmail.com </li>
 </ul>
 <h2>Connect With Me:</h2>
-<i class="fa-brands fa-linkedin" >linkedin</i>
+  <div class="social-links">
+                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                    </div>
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
