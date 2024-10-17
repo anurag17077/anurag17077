@@ -1,14 +1,13 @@
 
 <h2>Hey 👋, I'm Anurag Vishwakarma</h2>
-<p  align="center">A passionate Software Engineer from India.<strong></p>
+<p  align="center" > <h2>A passionate Software Engineer from India.</h2></p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <ul>
 <li>🌱 I’m currently Learning Machine Learning</a>.</li>
     <li>📫 how to reach me <a href="mailto:anurag17077@gmail.com"/a>anurag17077@gmail.com </li>
 </ul>
 <h2>Connect With Me:</h2>
-<i class="fa-brands fa-linkedin" 
-  color: white ></i>
+<i class="fa-brands fa-linkedin" >linkedin</i>
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
