@@ -4,7 +4,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <ul>
 <li>🌱 I’m currently Learning Machine Learning</a>.</li>
-    <li>📫 how to reach me <a href=""/a>anurag17077@gmail.com </li>
+    <li>📫 how to reach me <a href="mailto:anurag17077@gmail.com"/a>anurag17077@gmail.com </li>
 </ul>
 <h2>Connect With Me:</h2>
 <i class="fa-brands fa-linkedin" 
