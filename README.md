@@ -1,6 +1,6 @@
 
 <h2>Hey 👋, I'm Anurag Vishwakarma</h2>
-<p>A passionate Software Engineer from India <strong></p>
+<p  text-align="center">A passionate Software Engineer from India.<strong></p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <ul>
 <li>🌱 I’m currently Learning Machine Learning</a>.</li>
