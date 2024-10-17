@@ -1,7 +1,7 @@
 
 <h2   align="center">Hey 👋, I'm Anurag Vishwakarma</h2>
- <h4 align="center">A passionate Software Engineer from India.</h4>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+ <h3 align="center">A passionate Software Engineer from India.</h3>
+<img align="right" src="https://th.bing.com/th/id/OIP.PcUTIKD7RU7PP0S66jrVJgHaFj?rs=1&pid=ImgDetMain" />
 <ul>
 <li>🌱 I’m currently Learning Machine Learning</a>.</li>
     <li>📫 how to reach me <a href="mailto:anurag17077@gmail.com"/a>anurag17077@gmail.com </li>
