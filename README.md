@@ -6,7 +6,10 @@
 <li>🌱 I’m currently Learning Machine Learning</a>.</li>
     <li>📫 how to reach me <a href="mailto:anurag17077@gmail.com"/a>anurag17077@gmail.com </li>
 </ul>
-<h2>Connect With Me:</h2>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vijay-yadav-804128229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijay-yadav-804128229" height="30" width="40" /></a>
+</p>
 <h2>Languages And Tools:</h2>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
