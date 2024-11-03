@@ -8,7 +8,7 @@
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vijay-yadav-804128229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijay-yadav-804128229" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anurag-vishwakarma-972561239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anurag-vishwakarma-972561239/" height="30" width="40" /></a>
 </p>
 <h2>Languages And Tools:</h2>
 <p align="left"> 
