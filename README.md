@@ -1,5 +1,5 @@
 
-<h2   align="center" border-bottom="0px">Hey 👋, I'm Anurag Vishwakarma</h2>
+<h2   align="center" >Hey 👋, I'm Anurag Vishwakarma</h2>
  <h3 align="center">A passionate Software Engineer from India.</h3>
 <img align="right" src="https://th.bing.com/th/id/OIP.PcUTIKD7RU7PP0S66jrVJgHaFj?rs=1&pid=ImgDetMain" />
 <ul>
@@ -10,8 +10,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/anurag-vishwakarma-972561239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anurag-vishwakarma-972561239/" height="30" width="40" /></a>
 </p>
-<h2 border-botttom="0px">Languages And Tools:</h2>
-<p align="left" border-botttom="0px" > 
+<h2>Languages And Tools:</h2>
+<p align="left"  > 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  alt="cplusplus" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
